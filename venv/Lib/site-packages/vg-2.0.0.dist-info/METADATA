@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: vg
+Version: 2.0.0
+Summary: Linear algebra for humans: a very good vector-geometry and linear-algebra toolbelt
+Home-page: https://vgpy.readthedocs.io/en/stable
+License: BSD-2-Clause
+Author: Paul Melnikow
+Author-email: github@paulmelnikow.com
+Requires-Python: >=3.7,<4
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Manufacturing
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Artistic Software
+Classifier: Topic :: Multimedia :: Graphics :: 3D Modeling
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Requires-Dist: numpy
+Project-URL: Documentation, https://vgpy.readthedocs.io/en/stable
+Project-URL: Repository, https://github.com/lace/vg
